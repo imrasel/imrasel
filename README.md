@@ -1,4 +1,4 @@
-### Hi! I AM SOSTWARE ENGINEER 👋
+### Hi! I AM A FULLSTACK DEVELOPER 👋
 - 🔭 I'm currently working on augnitive.com 
 - 🌱 I'm currently learning React and Next.
 - 💬 Ask me about: Node JS, Vue JS, Laravel
