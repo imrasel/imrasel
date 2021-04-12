@@ -19,7 +19,7 @@
 "Database" : ['MySQL', 'MongoDB', 'Postgresql', 'FIrestore', 'Sqlite'],
 "CMS"      : ['Wordpress'],
 "UI"       : ['Bootstrap', 'Meterial Design'],
-"Server"    : ['Nginx', 'Apache'],
+"Server"   : ['Nginx', 'Apache'],
 "Cloud"    : ['Google Cloud', 'Digital Ocean'],
 "Tools"    : ['Jira', 'Trello', 'Github', 'Bitbucket'],
 }
